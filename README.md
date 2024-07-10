@@ -24,3 +24,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+1. You will have wanted to go through the setup of my previous tutorials before doing this one.
+2. https://github.com/JacobKnittle/osticket-prerequisites
+
