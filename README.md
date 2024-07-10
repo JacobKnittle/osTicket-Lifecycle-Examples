@@ -64,7 +64,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 
-7.) osTicket also has an option to respond to tickets being posted and the ability to change the ticket status.
+7.) osTicket also has the option to respond to tickets being posted and the ability to change the ticket status. If you change the ticket status to resolved or closed it will remove it from the open tickets.
 
 <p>
   <img width="482" alt="image" src="https://github.com/JacobKnittle/osTicket-Lifecycle-Examples/assets/124555008/80e2aa6e-772c-462d-b059-ca3a5cd4e7a0">
